@@ -17,3 +17,17 @@ Background: The AYUSH sector, encompassing Ayurveda, Yoga & Naturopathy, Unani, 
  registration process. The portal should enhance user experience, reduce processing times, and ensure compliance with regulatory requirements. Participants should
  demonstrate innovation in user interface design, data security measures, and integration with existing AYUSH databases.
  The ultimate goal is to empower AYUSH startups, enabling them to contribute more effectively to the healthcare ecosystem.
+
+
+
+# Dbms 
+
+Basic 
+Simple 2 phase 
+Consecutive 2PL
+Strict 2PL
+
+All locks statements recieve first unlock statements 
+Conservative -> the transaction predeclares its read and write set 
+Strict -> The transaction doesn't release any of it exlusive lock until after it commits or aborts 
+
